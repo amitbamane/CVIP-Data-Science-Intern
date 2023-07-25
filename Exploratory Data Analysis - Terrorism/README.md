@@ -1,6 +1,6 @@
 🌐 EDA on Terrorism Dataset on Kaggle 📊🌍
 
-In this GitHub repository, I've performed an in-depth Exploratory Data Analysis (EDA) on the Terrorism Dataset from Kaggle. The analysis focused on various factors, including year, country, region, attack type, target type, group name, weapon type, and database source.
+In this Project, I've performed an in-depth Exploratory Data Analysis (EDA) on the Terrorism Dataset from Kaggle. The analysis focused on various factors, including year, country, region, attack type, target type, group name, weapon type, and database source.
 
 📈 Analysis Highlights:
 
