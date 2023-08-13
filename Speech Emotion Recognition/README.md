@@ -1,6 +1,6 @@
 Speech Emotion Recognition using LSTM - Project  🚀
 
-Welcome to the repository for my exciting Internship project at CodersCave, where I have implemented a state-of-the-art Speech Emotion Recognition system on the CREMA-D dataset. This project showcases the power of LSTM (Long Short-Term Memory) models in understanding and classifying emotions within speech data.
+In this Project, I have implemented a state-of-the-art Speech Emotion Recognition system on the CREMA-D kaggle dataset. This project showcases the power of LSTM (Long Short-Term Memory) models in understanding and classifying emotions within speech data.
 
 Project Overview 🎯
 In this project, I delved into the fascinating realm of speech analysis, aiming to accurately recognize and classify emotions embedded within speech recordings. Leveraging the CREMA-D dataset, I employed advanced machine learning techniques to achieve impressive results in emotional classification.
