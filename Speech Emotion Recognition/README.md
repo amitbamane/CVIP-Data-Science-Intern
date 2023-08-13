@@ -14,3 +14,5 @@ Results 🚀
 The Speech Emotion Recognition LSTM model achieved a remarkable accuracy of 0.8542 on the training dataset and an equally impressive 0.5436241626739502% on the test dataset. These results underscore the efficacy of the LSTM model in deciphering complex emotional patterns within speech data. The success of this project underscores the immense potential of LSTM models in real-world applications.
 
 Additional Note: The final trained LSTM model has been saved in an h5 file for further use, ensuring that the valuable work can be seamlessly integrated into future projects.
+
+Dataset Link:- https://www.kaggle.com/datasets/ejlok1/cremad
